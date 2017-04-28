@@ -1,5 +1,5 @@
 {
-  "name": "ng2-jsoneditor",
+  "name": "ngx-jsoneditor",
   "version": "0.1.0",
   "description": "JSON Editor for Angular 2",
   "main": "index.js",
@@ -18,21 +18,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/urbansson/ng2-jsoneditor"
+    "url": "https://github.com/urbansson/ngx-jsoneditor"
   },
   "bugs": {
-    "url": "https://github.com/urbansson/ng2-jsoneditor/issues"
+    "url": "https://github.com/urbansson/ngx-jsoneditor/issues"
   },
   "author": "Theodor Brandt <teddy@brandts.se>",
   "license": "MIT",
   "devDependencies": {
-    "@angular/common": "^2.0.2",
-    "@angular/core": "^2.0.2",
-    "rxjs": "5.0.0-rc.1",
-    "typescript": "2.0.3",
-    "typings": "^1.0.4"
+    "@angular/common": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.3.0",
+    "typescript": "^2.3.1"
   },
   "dependencies": {
-    "jsoneditor": "^5.5.9"
+    "jsoneditor": "^5.6.0"
   }
 }
